@@ -1,0 +1,14 @@
+{
+	"name": "Crawler",
+	"version": "0.1",
+	"manifest_version": 2,
+
+	"description": "Connect to Crawler hub to crawl advers",
+
+	"browser_action":{
+		"default_icon": "icon19.png",
+		"default_title": "Crawler",
+		"default_popup": "index.html"
+	}
+
+}
